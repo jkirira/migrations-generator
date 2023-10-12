@@ -7,7 +7,7 @@
 	"require": {
 		"php": ">=5.4.0",
 		"illuminate/support": ">=4.1|^5.0|^6.0|^7.0|^8.0|^9.0",
-		"xethron/laravel-4-generators": "*",
+		"xethron/laravel-4-generators": "~3.1.0|^4.0|^5.0|^6.0|^7.0|^8.0|^9.0",
 		"doctrine/dbal": "~2.4"
 	},
 	"autoload": {
